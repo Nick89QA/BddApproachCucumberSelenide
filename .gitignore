@@ -19,3 +19,4 @@ output/
 
 # Log file
 *.log
+*.xml
