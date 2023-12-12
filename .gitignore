@@ -1,0 +1,21 @@
+# IntelliJ IDEA
+.idea/
+
+# Maven
+target/
+*.iml
+
+# TestNG
+test-output/
+
+# Cucumber
+output/
+
+# JUnit
+/target/
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
