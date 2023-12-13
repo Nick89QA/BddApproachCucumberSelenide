@@ -22,3 +22,5 @@ output/
 *.xml
 *.ist
 *.txt
+# Selenide screenshot
+/build
