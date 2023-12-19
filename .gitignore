@@ -11,6 +11,10 @@ test-output/
 # Cucumber
 output/
 
+#Allure
+.allure
+allure-results
+
 # JUnit
 /target/
 
